@@ -1,9 +1,9 @@
-##Olá sou o Vinicius Henrique 👨‍💻
+## Olá sou o Vinicius Henrique 👨‍💻
 
 ![vinihsilv GitHub stats](https://github-readme-stats.vercel.app/api?username=vinihsilv&show_icons=true&theme=onedark)
 
 
-##Conhecimento nas seguintes tecnologias:
+## Conhecimento nas seguintes tecnologias:
 
 <div style="display: inline_block"><br>
 <img align="center" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
