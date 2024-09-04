@@ -17,4 +17,4 @@
 </div><br>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinihsilv&layout=donut)](https://github.com/vinihsilv/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinihsilv&layout=)](https://github.com/vinihsilv/github-readme-stats)
