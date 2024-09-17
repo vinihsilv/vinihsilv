@@ -1,6 +1,6 @@
 ## Olá sou o Vinicius Henrique 👨‍💻
 
-![vinihsilv GitHub stats](https://github-readme-stats.vercel.app/api?username=vinihsilv&show_icons=true&theme=onedark)
+![vinihsilv GitHub stats](https://github-readme-stats.vercel.app/api?username=vinihsilv&show_icons=true&theme=onedark&rank_icon=github)
 
 
 ## Conhecimento nas seguintes tecnologias:
